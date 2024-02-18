@@ -5,3 +5,13 @@ aula 1
 - Utilização das classes HttpClient, HttpRequest e HttpResponse para fazer requisições e receber respostas da API.
 - Como testar o código para verificar se os dados estão sendo retornados corretamente.
 - A importância de ter uma classe específica para consumir APIs, tornando o código mais modularizado e de fácil manutenção.
+
+aula 2
+
+- Desenvolvimento Colaborativo: Discutimos a importância do desenvolvimento colaborativo em projetos de programação e como ferramentas como o Git facilitam esse processo.
+APIs e Consultas Detalhadas: Descobrimos como trabalhar com APIs para detalhar informações e obter consultas mais específicas.
+- Utilização de anotações @JsonAlias e @JsonIgnoreProperties: A importância de usar essas funções para mapear a API para a aplicação.
+- Criação de métodos para interação do usuário: Criamos um método para exibir o menu e interagir com o usuário, permitindo que digitem o nome da série que desejam pesquisar.
+- Manipulação de dados de uma API: Mostramos como importar e manipular dados de uma API, neste caso, dados de séries de TV.
+- Manipulação de  strings para criar endereços que a API compreenderá e retornará os dados desejados.
+- Introdução aos Lambdas: Conhecemos o Lambda Expressions em Java, conhecidas como funções anônimas que podemos usar para escrever código mais eficiente.
