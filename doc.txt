@@ -1,0 +1,7 @@
+aula 1
+
+- criou o projeto spring
+- consumiu api (mudei a chave da api)e obter os dados em formato JSON.
+- Utilização das classes HttpClient, HttpRequest e HttpResponse para fazer requisições e receber respostas da API.
+- Como testar o código para verificar se os dados estão sendo retornados corretamente.
+- A importância de ter uma classe específica para consumir APIs, tornando o código mais modularizado e de fácil manutenção.
